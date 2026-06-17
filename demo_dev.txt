@@ -7,3 +7,6 @@ this commit is right by replacing the wrong commit.
 
 this commit is also fine.
 
+here i added bug
+and this is its 2nd line
+
