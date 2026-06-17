@@ -3,7 +3,7 @@ this is a new line
 
 this is a fine commit.
 
-this commit is not fine ( bug,issue,wrong )
+this commit is right by replacing the wrong commit.
 
-this commit is also fine
+this commit is also fine.
 
